@@ -27,7 +27,7 @@
         //Unity's surface shaders require an input struct which cannot be empty
         struct Input
         {
-            float4 color : COLOR;
+            float4 color;
         };
 
         //Property variables
